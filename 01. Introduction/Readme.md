@@ -1,1 +1,1 @@
-Hii! Everyone welcome to Mathematical C programming.
+Hii! Everyone welcome to Mathematical pure C programming.
